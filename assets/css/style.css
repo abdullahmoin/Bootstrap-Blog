@@ -1,0 +1,274 @@
+body{
+    color: #C61D75;
+}
+
+.navbar {
+   background-color: #C61D75;
+}
+
+.nav-link, .navbar-brand {
+    color: #f4f4f4;
+    
+    transition-property: width;
+    transition-duration: 5s;
+    transition-delay: 2s;
+}
+
+.nav-link:hover {
+    background:  #f4f4f4;
+    color: #C61D75;
+    width: 100px;
+
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+
+
+
+/*-----------------------------------------------*/
+
+.description{
+    padding: 100px 0px;
+   
+}
+.description h1{
+    color:#C61D75 ;
+}
+.description p{
+    color:#666;
+    font-size: 20px;
+    width: 50%;
+    line-height: 1.5;
+}
+.btn-lg.btn-bg{
+    background-color: #C61D75 ;
+    border: none;
+    color: white;
+    transition-property: width;
+    transition-duration: 5s;
+    transition-delay: 2s;
+}
+.btn-lg.btn-bg:hover{
+    background-color: #EE4392;
+    width: 200px;
+    text-align: left;
+}
+
+.about span{
+    display: block;
+    color: #888;
+    position: absolute;
+    left: 115px;
+}
+.about .desc{
+    padding: 2em;
+    border-left:4px solid #C61D75;
+}
+.about .desc h3{
+    color: #C61D75;
+}
+.about .desc p{
+    line-height:2;
+    color: #EE4392;
+}
+
+
+/*-----------------------------------------------*/
+.text-center.txt-style{
+color: #C61D75;
+
+}
+
+.img-gal-control{
+    border: 0.5px solid #EE4392;
+    padding: 30px;
+    
+}
+
+
+
+/*Portfolio*/
+.portfolio h1{
+    
+    margin: 2em;
+}
+
+
+.portfolio img{
+    margin-top: 20px;
+    
+    
+}
+.img-db{
+margin-bottom: 20px;
+}
+
+/*..........................*/
+
+.blog h1{
+    margin-top: 200px !important;
+    margin: 2em;
+}
+.blog .card{
+    box-shadow: 0 0 20px #ccc;
+}
+.blog .card img{
+   
+    height: 12em;
+}
+.blog .card-title{
+    color:#EE4392;
+}
+.blog .card-body{
+    padding: 1em;
+    
+    transition-property: height;
+    transition-duration: 5s;
+    transition-delay: 2s;
+}
+.blog .card-body:hover{
+    height: 200px;
+}
+.blog .row {
+    margin-top: 30px;
+}
+
+/*..........................*/
+
+
+.card-footer a:hover{
+    background:  #f4f4f4;
+    color: #C61D75;
+    width: 100px;
+}
+
+
+
+/*..................*/
+
+.team h1{
+    margin: 2em;
+}
+.team .des-holder{
+    border-bottom: .2px solid #C61D75;
+    
+}
+.team .des{
+    
+    background: #C61D75;
+    color: #fff;
+    text-align: center;
+    border-bottom-left-radius: 93%;
+}
+.team-grid{
+    margin-top: 100px;
+}
+
+ h2 {
+     
+     font-weight: bold;
+     margin-bottom: 40px;
+     padding-top: 40px;
+     color: #C61D75;
+ }
+.cover p{
+    color: #fff;
+}
+ @media (max-width:767px) {
+     h2 {
+         margin-bottom: 25px;
+         padding-top: 25px;
+         font-size: 24px
+     }
+ }
+
+ .intro {
+     font-size: 16px;
+     max-width: 500px;
+     margin: 0 auto
+ }
+
+
+ .people {
+     padding: 50px 0;
+     cursor: pointer
+ }
+
+ .item {
+     margin-bottom: 30px
+ }
+
+ .item .box {
+     text-align: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     height: 280px;
+     position: relative;
+     overflow: hidden;
+     border-right: 2px dotted  #C61D75;
+     
+ }
+
+ .item .cover {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(31, 148, 255, 0.75);
+     transition: opacity 0.15s ease-in;
+     opacity: 0;
+     padding-top: 80px;
+     color: #fff;
+     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15)
+ }
+
+ .item:hover .cover {
+     opacity: 1
+ }
+
+ .item .name {
+     font-weight: bold;
+     margin-bottom: 8px
+ }
+
+ .item .title {
+     text-transform: uppercase;
+     font-weight: bold;
+     color: #bbd8fb;
+     letter-spacing: 2px;
+     font-size: 13px;
+     margin-bottom: 20px
+ }
+
+ .social {
+     font-size: 18px
+ }
+
+ .social a {
+     color: inherit;
+     margin: 0 10px;
+     display: inline-block;
+     opacity: 0.7
+ }
+
+ .social a:hover {
+     opacity: 1
+ }
+
+.contact-form{
+    margin: 60px;
+}
+.btn-ctrl{
+    background-color: #EE4392;
+    color: #fff;
+}
+.btn-ctrl:hover{
+    color: #fff;
+    background-color: #C61D75;
+}
