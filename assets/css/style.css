@@ -1,11 +1,9 @@
 body{
     color: #C61D75;
 }
-
 .navbar {
    background-color: #C61D75;
 }
-
 .nav-link, .navbar-brand {
     color: #f4f4f4;
     
@@ -13,12 +11,10 @@ body{
     transition-duration: 5s;
     transition-delay: 2s;
 }
-
 .nav-link:hover {
     background:  #f4f4f4;
     color: #C61D75;
     width: 100px;
-
 }
 .navbar-collapse {
     justify-content: flex-end;
@@ -26,8 +22,6 @@ body{
 .nav-link {
     margin-right: 1em !important;
 }
-
-
 
 /*-----------------------------------------------*/
 
@@ -57,7 +51,6 @@ body{
     width: 200px;
     text-align: left;
 }
-
 .about span{
     display: block;
     color: #888;
@@ -75,40 +68,26 @@ body{
     line-height:2;
     color: #EE4392;
 }
-
-
 /*-----------------------------------------------*/
 .text-center.txt-style{
 color: #C61D75;
-
 }
-
 .img-gal-control{
     border: 0.5px solid #EE4392;
-    padding: 30px;
-    
+    padding: 30px;   
 }
-
-
 
 /*Portfolio*/
-.portfolio h1{
-    
+.portfolio h1{   
     margin: 2em;
 }
-
-
 .portfolio img{
-    margin-top: 20px;
-    
-    
+    margin-top: 20px;   
 }
 .img-db{
 margin-bottom: 20px;
 }
-
 /*..........................*/
-
 .blog h1{
     margin-top: 200px !important;
     margin: 2em;
@@ -136,18 +115,11 @@ margin-bottom: 20px;
 .blog .row {
     margin-top: 30px;
 }
-
 /*..........................*/
-
-
 .card-footer a:hover{
     background:  #f4f4f4;
     color: #C61D75;
-    width: 100px;
 }
-
-
-
 /*..................*/
 
 .team h1{
@@ -184,25 +156,25 @@ margin-bottom: 20px;
          padding-top: 25px;
          font-size: 24px
      }
- }
+}
 
- .intro {
+.intro {
      font-size: 16px;
      max-width: 500px;
      margin: 0 auto
- }
+}
 
 
- .people {
+.people {
      padding: 50px 0;
      cursor: pointer
- }
+}
 
- .item {
+.item {
      margin-bottom: 30px
- }
+}
 
- .item .box {
+.item .box {
      text-align: center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -211,10 +183,11 @@ margin-bottom: 20px;
      position: relative;
      overflow: hidden;
      border-right: 2px dotted  #C61D75;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
      
- }
+}
 
- .item .cover {
+.item .cover {
      position: absolute;
      top: 0;
      left: 0;
@@ -226,40 +199,40 @@ margin-bottom: 20px;
      padding-top: 80px;
      color: #fff;
      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15)
- }
+}
 
- .item:hover .cover {
+.item:hover .cover {
      opacity: 1
- }
+}
 
- .item .name {
+.item .name {
      font-weight: bold;
      margin-bottom: 8px
- }
+}
 
- .item .title {
+.item .title {
      text-transform: uppercase;
      font-weight: bold;
      color: #bbd8fb;
      letter-spacing: 2px;
      font-size: 13px;
      margin-bottom: 20px
- }
+}
 
- .social {
+.social {
      font-size: 18px
- }
+}
 
- .social a {
+.social a {
      color: inherit;
      margin: 0 10px;
      display: inline-block;
      opacity: 0.7
- }
+}
 
- .social a:hover {
+.social a:hover {
      opacity: 1
- }
+}
 
 .contact-form{
     margin: 60px;
@@ -267,6 +240,7 @@ margin-bottom: 20px;
 .btn-ctrl{
     background-color: #EE4392;
     color: #fff;
+    border-radius: 5px;
 }
 .btn-ctrl:hover{
     color: #fff;
