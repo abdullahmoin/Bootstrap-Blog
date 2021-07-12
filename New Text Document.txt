@@ -1,0 +1,232 @@
+<section>
+		<!--.. navigation......-->
+		<nav>
+			<!--logo...-->
+			<a href="#" class="logo"> Internet</a>
+			<!--menu..-->
+			<ul>
+				<li><a hef="#" class="active"></a>HOME</li>
+				<li><a hef="#"></a>ABOUT</li>
+				<li><a hef="#"></a>SERVICES</li>
+				<li><a hef="#"></a>PORTFOLIO</li>
+				<li><a hef="#"></a>BLOG</li>
+				<li><a hef="#"></a>CONTACT</li>
+
+
+			</ul>
+		</nav>
+
+		<div class="text-container">
+			<p>Hello</p>
+			<p>I'M TAMAL</p>
+			<p> I am Computer Science And Engineering <br> & Web Devloper</p>
+			<br>
+			<button class="hire-btn">Hire me</button>
+			<button class="down-cv">Download CV </button>
+		</div>
+
+		<!-- model....-->
+		<img src="2  images.jpg" class="model" alt="model"></img>
+	</section>
+	<br>
+
+	<!-- about section...-->
+	<div class="about-container">
+		<!-- img src -->
+		<img src="home/1  images.jpg" height="60%" weight="40%">
+		<!-- about text-->
+		<div class="about-text">
+			<p>About Me</p>
+			<p>Devoloper & Design</p>
+			<p>Hello, My name is TAMAL SARKAR. I am a Devloper and also a Designer. If you have asany project or if you
+				want to make software for your bisnses contact me. I make as soon as possible. you really like my work,
+				if you don't i change this until you like i give you seticfaction result</p>
+			<p>I am a Devloper and also a Designer. If you have asany project or if you want make a software for you
+				business contact me. I make your project as soon as possible</p>
+			<button>Hire Me</button>
+			<button>Download</button>
+		</div>
+	</div>
+
+
+
+
+
+	<!-- services -->
+
+	
+
+
+	<!--client-->
+	<!--<section id="client">-->
+	<section>
+		<div class="container">
+			<div class="client-heading">
+				<span>Comments</span>
+				<h1>Client Says</h1>
+			</div>
+
+			<!--client-box -container--->
+			<div class="c-box-container">
+				<!--box-1-->
+				<div class="client-box">
+					<!--img-->
+					<img src="home/1  images.jpg">
+					<!-- stars/ reviews-->
+					<div class="star">
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+					</div>
+					<!-- details/comment-->
+					<p class="text-center"> If you're looking for random paragraphs, you've come to the right places .
+						when a random word or
+						a
+						random sentences isn't quite enough, the next logical step is to find a random paragraph.</p>
+
+					<!--btn-->
+					<a href="#">Read More</a>
+				</div>
+
+				<!--box-2-->
+				<div class="client-box">
+					<!--img-->
+					<img src="home/3  images.jpg">
+					<!-- stars/ reviews-->
+					<div class="star">
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="far fa-star"></i>
+					</div>
+
+					<!-- details/comment-->
+					<p>If you're looking for random paragraphs, you've come to the right places . when a random word or
+						a
+						random sentences isn't quite enough, the next logical step is to find a random paragraph.</p>
+					<!--btn-->
+					<a href="#">Read More</a>
+				</div>
+				<!--box-3-->
+				<div class="client-box">
+					<!--img-->
+					<img src="home/2  images.jpg">
+					<!-- stars/ reviews-->
+					<div class="star">
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+						<i class="fas fa-star"></i>
+					</div>
+					<!-- details/comment-->
+					<p>If you're looking for random paragraphs, you've come to the right places . when a random word or
+						a
+						random sentences isn't quite enough, the next logical step is to find a random paragraph.</p>
+
+					<!--btn-->
+					<a href="#">Read More</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<!--Blog--->
+
+	<!--<section class="latest-news-area" id="latest">-->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="section_subtitle">Blog</div>
+				<h2>Recent <strong>Blogs</strong></h2>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="news-active">
+			<div class="col-md-4">
+				<div class="latest-news-wrap">
+					<div class="news-img">
+						<img src="home/R 1  images.jpg" class="img-responsive">
+						<div class="deat">
+							<span>10</span>
+							<span>Feb</span>
+						</div>
+					</div>
+					<div class="news-content">
+						<i class="fa fa-facebook"></i>
+						<i class="fa fa-twitter"></i>
+						<i class="fa fa-linkedin"></i>
+						<i class="fa fa-youtube"></i>
+						<i class="fa fa-whatsapp"></i>
+						<h2>Responsive Web Design</h2>
+						<p>who is such a man as does not want to get success in their life. life is not meant for
+							work only</p>
+						<br>
+						<a href="">Read More</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="latest-news-wrap">
+					<div class="news-img">
+
+						<img src="home/creative 2  images.jpg" class="img responsive">
+
+						<div class="deat">
+							<span>10</span>
+							<span>Feb</span>
+						</div>
+					</div>
+					<div class="news-content">
+						<i class="fa fa-facebook"></i>
+						<i class="fa fa-twitter"></i>
+						<i class="fa fa-linkedin"></i>
+						<i class="fa fa-youtube"></i>
+						<i class="fa fa-whatsapp"></i>
+
+						<h2>Creative slideshow</h2>
+						<p>who is such a man as does not want to get success in their life. life is not meant for
+							work only</p>
+						<br>
+						<a href="">Read More</a>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="blog-box">
+					<div class="latest-news-wrap">
+						<div class="news-img">
+							<img src="home/gallery  images.jpg" class="img responsive">
+							<div class="deat">
+								<span>10</span>
+								<span>Feb</span>
+							</div>
+						</div>
+						<div class="news-content">
+							<i class="fa fa-facebook"></i>
+							<i class="fa fa-twitter"></i>
+							<i class="fa fa-linkedin"></i>
+							<i class="fa fa-youtube"></i>
+							<i class="fa fa-whatsapp"></i>
+
+							<h2>Image Gallery Lightbox</h2>
+							<p>who is such a man as does not want to get success in their life. life is not meant
+								for work only</p>
+							<br>
+							<a href="">Read More</a>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4"></div>
+			</div>
+		</div>
+	</div>
